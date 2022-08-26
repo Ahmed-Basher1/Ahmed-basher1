@@ -14,7 +14,7 @@ A fresh graduate with a bachelor degree in Computer Science. I am a strategic ag
 # 📊 GitHub Stats:
 ![Ahmed-basher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-basher1&hide=contribs,prs)
 
-![Ahmed-basher's graph stats](https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal)
+![Ahmed-basher's graph stats](https://activity-graph.herokuapp.com/graph?username=ahmed-basher1&theme=minimal)
 [![Ahmed-basher's profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-basher1&theme=vue)
 
 ---

@@ -1,7 +1,7 @@
 
 [![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://rishavchanda.io)
 # 💫 About Me:
-A fresh graduate with a bachelor degree in Computer Science. I am a strategic agile thinker and well versed in writing clean code and debugging. Currently looking for a healthy work environment to utilize my skills and gain more experience as a junior web developer
+A software engineer with a bachelor degree in Computer Science. I am a strategic agile thinker and well versed in writing clean code and debugging. Currently looking for a healthy work environment to utilize my skills and gain more experience as a Backend developer.
 
 
 ## 🌐 Socials:

@@ -2,9 +2,12 @@
 <h3 align="center">Backend Software Engineer | Node.js | Scalable Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/a7medbasher">LinkedIn</a> •
-  <a href="https://my-portfolio-ahmed.netlify.app/">Portfolio</a> •
-  <a href="mailto:a7medbasher811@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/a7medbasher">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:a7medbasher811@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -72,10 +75,6 @@ Consistent contributor with focus on backend systems, performance optimization, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-basher1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-basher1&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
